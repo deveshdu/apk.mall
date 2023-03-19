@@ -1,0 +1,67 @@
+*{
+    box-sizing: border-box;
+}
+h2{
+    font-weight: bold;
+    font-size: 200%;
+    color: black;
+    
+}
+
+ol{
+    color:black;
+    font-size: 300%;
+    background-color: red;
+}
+
+
+
+
+
+h1{
+    text-align: center;
+    background-color: lime;
+    border-radius: 4cm;
+     background-attachment:fixed;
+     font-size: 300%;
+padding:1cm;
+    color: red;
+    border-color: turquoise;
+    border: 4px;
+}
+div{
+     font-size: 200%;
+     color: darkslategray;
+     background-color: orange;
+     text-decoration: unset;
+     overflow: hidden;
+     font-weight: bolder;
+
+}
+header{
+    color: gainsboro;
+    font-size: 200%;
+    background-color: black;
+    text-align: center;
+    padding: 0.5cm;
+}
+h3{
+    font-size: 200%;
+    color:aqua;
+    text-align: center;
+    background-color: blueviolet;
+
+}
+h4{
+    background-color: blueviolet;
+}
+h5{
+    font-size: 200%;
+    font-weight: bolder;
+}
+p{
+    font-size: 200%;
+    color: red;
+    text-align: center;
+    background-color: black;
+}
